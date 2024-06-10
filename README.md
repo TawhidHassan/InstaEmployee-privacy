@@ -1,7 +1,7 @@
 # InstaEmployee-privacy
 **Privacy Policy**
 
-MAAC built the AdopBox-privacy app as a Free app. This SERVICE is provided by MAAC at no cost and is intended for use as is.
+MAAC built the InstaEmployee app as a Free app. This SERVICE is provided by MAAC at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
